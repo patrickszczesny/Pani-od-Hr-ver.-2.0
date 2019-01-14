@@ -1,0 +1,21 @@
+-----------------------------
+|Name: Zbigniew, Coś        |
+|Sex: Tak                   |
+|Height: 120cm              |
+|Birthdate: No data         |
+|Interests: coś tam, coś tam|
+-----------------------------
+-----------------------
+|Name: Karol, Yes     |
+|Sex: Tak             |
+|Height: 120cm        |
+|Birthdate: 10-01-2000|
+|Interests: cośtam    |
+-----------------------
+----------------------------------------
+|Name: Anna, lalla                     |
+|Sex: Tak                              |
+|Height: 120cm                         |
+|Birthdate: No data                    |
+|Interests: coś tam, coś tam, jakoś tam|
+----------------------------------------
